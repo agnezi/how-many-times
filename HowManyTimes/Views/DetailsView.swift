@@ -2,7 +2,7 @@
 //  DetailsView.swift
 //  HowManyTimes
 //
-//  Created by Jonas Agnezi on 12/10/22.
+//  Created by agnezi.io on 12/10/22.
 //
 
 import SwiftUI

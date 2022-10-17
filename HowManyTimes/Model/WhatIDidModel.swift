@@ -2,7 +2,7 @@
 //  WhatIDidModel.swift
 //  HowManyTimes
 //
-//  Created by Jonas Agnezi on 11/10/22.
+//  Created by agnezi.io on 11/10/22.
 //
 
 import Foundation
